@@ -1,0 +1,58 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Neon Sofa Chair",
+        "price": 1000,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-19.png"   
+    },
+    {
+        "id": 2,
+        "name": "Wooden Arm Chair",
+        "price": 1200,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-22.png"   
+    },
+    {
+        "id": 3,
+        "name": "Royal Wooden Chair",
+        "price": 1100,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-23.png"   
+    },
+    {
+        "id": 4,
+        "name": "Vintage Chair",
+        "price": 1700,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-20.png"   
+    },
+    {
+        "id": 5,
+        "name": "Neon Sofa Chair",
+        "price": 2200,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-25.png"   
+    },
+    {
+        "id": 6,
+        "name": "Stallenes Chair",
+        "price": 1600,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-3.png"   
+    },
+    {
+        "id": 7,
+        "name": "Cubbel Chair",
+        "price": 3000,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-17.png"   
+    },
+    {
+        "id": 8,
+        "name": "Fiver Chair",
+        "price": 1200,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-11.png"   
+    },
+    {
+        "id": 9,
+        "name": "Wooden Chair",
+        "price": 4500,
+        "photo": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/furniture/product-12.png"   
+    }
+    
+]
